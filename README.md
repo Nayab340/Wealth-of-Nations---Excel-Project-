@@ -22,7 +22,7 @@ For this project I did the following in Excel:
 7. Adding header and footer in Excel!
 
 
-**After working with the data I had to create a dashboard on Tableau**
+After working with the data I had to create a dashboard on Tableau
 
 For this I did the following:
 
