@@ -5,8 +5,6 @@ For this project I did the following in Excel:
 1. Set a password to protect the workbook
 
 
-   <img width="452" alt="image" src="https://github.com/Nayab340/Wealth-of-Nations---Excel-Project-/assets/142215655/52705d6e-19ba-43de-8785-b85883dd2771">
-
 3. Cleaning the data
 
 4. Turning the GDP sheet into a table and Filtering the table to display only relevant information
