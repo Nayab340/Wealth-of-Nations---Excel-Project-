@@ -22,7 +22,7 @@ For this project I did the following in Excel:
 7. Adding header and footer in Excel!
 
 
-After working with the data I had to create a dashboard on Tabluea 
+**After working with the data I had to create a dashboard on Tableau**
 
 For this I did the following:
 
@@ -32,7 +32,7 @@ For this I did the following:
  <img width="452" alt="image" src="https://github.com/Nayab340/Wealth-of-Nations---Excel-Project-/assets/142215655/094b5178-a8bc-4f71-ba56-af723fd1e4e5">
 
 3.Check data types 
-<img width="452" alt="image" src="https://github.com/Nayab340/Wealth-of-Nations---Excel-Project-/assets/142215655/66e6cc52-a839-47b5-b0a6-8651de408468">
+
 
 4. Create charts
 
